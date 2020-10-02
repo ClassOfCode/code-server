@@ -1,0 +1,12 @@
+[2020-09-30 16:20:54.546] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/coder/.local/share/code-server/User/snippets'
+[2020-09-30 16:20:54.546] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/coder/.local/share/code-server/User/snippets'
+[2020-09-30 16:20:54.553] [remoteagent] [error] /home/coder/.local/share/code-server/extensions {"errno":-2,"code":"ENOENT","syscall":"scandir","path":"/home/coder/.local/share/code-server/extensions"}
+[2020-09-30 16:20:57.080] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/coder/.local/share/code-server/User/snippets'
+[2020-09-30 16:20:57.080] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/coder/.local/share/code-server/User/snippets'
+[2020-09-30 16:20:57.088] [remoteagent] [error] /home/coder/.local/share/code-server/extensions {"errno":-2,"code":"ENOENT","syscall":"scandir","path":"/home/coder/.local/share/code-server/extensions"}
+[2020-09-30 16:34:31.109] [remoteagent] [info] Installing extension: github.github-vscode-theme
+[2020-09-30 16:34:31.471] [remoteagent] [info] Downloaded extension: github.github-vscode-theme /home/coder/.local/share/code-server/CachedExtensionVSIXs/github.github-vscode-theme-1.1.5
+[2020-09-30 16:34:31.504] [remoteagent] [info] Extracted extension to /home/coder/.local/share/code-server/extensions/.github.github-vscode-theme-1.1.5: github.github-vscode-theme
+[2020-09-30 16:34:31.504] [remoteagent] [info] Renamed to /home/coder/.local/share/code-server/extensions/github.github-vscode-theme-1.1.5
+[2020-09-30 16:34:31.505] [remoteagent] [info] Installation completed. github.github-vscode-theme
+[2020-09-30 16:34:31.511] [remoteagent] [info] Extensions installed successfully: github.github-vscode-theme
